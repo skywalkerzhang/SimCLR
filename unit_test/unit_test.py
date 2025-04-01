@@ -22,9 +22,9 @@ class TestInfoNCELoss(unittest.TestCase):
 
         self.debug_dir = os.path.dirname(__file__)
         self.debug_files = [
-            "info_nce_debug_9.pt",
-            "info_nce_debug_42.pt",
-            "info_nce_debug_88.pt"
+            "../info_nce_debug_9.pt",
+            "../info_nce_debug_42.pt",
+            "../info_nce_debug_88.pt"
         ]
 
     def extract_seed(self, filename):
