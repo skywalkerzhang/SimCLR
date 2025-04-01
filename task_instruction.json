@@ -1,0 +1,17 @@
+{
+    "paper_name": "Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization",
+    "paper_url": "https://arxiv.org/pdf/2002.05709",
+    "year": 2025,
+    "repo_url": "https://github.com/skywalkerzhang/SimCLR/tree/master",
+    "repo_path": "",
+    "implementations": [
+        {
+            "instruction": "Implement the info_nce_loss, based on the method described in the paper and the repository.",
+            "index": 1,
+            "goal_file": "simclr.py",
+            "golden_file": "simclr_golden.py",
+            "retrieval_context": [],
+            "unit_test_file": "unit_test/unit_test.py"
+        }
+    ]
+}
